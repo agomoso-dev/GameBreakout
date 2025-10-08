@@ -1,6 +1,6 @@
 # GameBreakout
 
-Este proyecto es un juego clásico de Breakout en Java que desarrollamos como parte de una práctica de DAM. El profesor nos entregó un proyecto base que, básicamente, no funcionaba nada: las colisiones estaban mal hechas, las mecánicas no existían del todo y en general el juego era imposible de jugar.
+Este proyecto es un juego el Breakout en Java que desarrollamos como parte de una práctica de DAM. El profesor nos entregó un proyecto base que no funcionaba nada: las colisiones estaban mal hechas, las mecánicas no existían del todo y en general el juego era imposible de jugar.
 
 El desafío fue rehacer el juego desde cero a partir de ese punto de partida roto, arreglando cada detalle hasta dejarlo en una versión estable y entretenida.
 
@@ -11,10 +11,10 @@ Cambios y mejoras que hicimos:
 
 - Usamos cálculos en base a porcentajes de pantalla, lo que permite que el juego se adapte mejor a distintas resoluciones y tamaños de ventana.
 
-- Corregimos muchos bugs que impedían que el juego se pudiera ejecutar bien.
+- Corregi todos los bugs que había implementados.
 
-- Ajustamos y mejoramos las mecánicas principales: rebotes, destrucción de bloques, reinicio de partida, etc.
+- Cree mis propias mecánicas que eran ideas propias.
 
-- Refactorizamos el código para que sea más ordenado y fácil de mantener.
+- Refactoricé el código para que sea más ordenado y fácil de mantener.
 
-- Agregamos varios niveles de dificultad, para que el jugador pueda elegir y el juego tenga más rejugabilidad.
+- Agregué diferentes niveles con diferentes dificultades.
