@@ -1,9 +1,9 @@
-GameBreakout
+# GameBreakout
 
 Este proyecto es un juego clásico de Breakout en Java que desarrollamos como parte de una práctica de DAM. El profesor nos entregó un proyecto base que, básicamente, no funcionaba nada: las colisiones estaban mal hechas, las mecánicas no existían del todo y en general el juego era imposible de jugar.
 
 El desafío fue rehacer el juego desde cero a partir de ese punto de partida roto, arreglando cada detalle hasta dejarlo en una versión estable y entretenida.
-
+---
 Cambios y mejoras que hicimos:
 
 - Implementamos colliders para que las colisiones entre la bola, los ladrillos, la paleta y los bordes funcionen correctamente.
